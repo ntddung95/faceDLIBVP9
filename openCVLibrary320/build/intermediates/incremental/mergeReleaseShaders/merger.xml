@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/vp9/Android/dlibAndroid/androidstudio-examples/dlib-android-app/openCVLibrary320/src/main/shaders"/></dataSet><dataSet config="release"><source path="/home/vp9/Android/dlibAndroid/androidstudio-examples/dlib-android-app/openCVLibrary320/src/release/shaders"/></dataSet></merger>
